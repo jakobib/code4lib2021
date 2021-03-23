@@ -13,9 +13,10 @@ BARTOC becomes a hub of vocabulary services for unified browsing, searching, and
 
 ### Related links
 
-* https://coli-conc.gbv.de/blog/2021/03/23/bartoc-vocabulary-browsing/
-* https://github.com/gbv/cocoda-sdk/
-* https://github.com/gbv/coli-conc-examples/
+* https://coli-conc.gbv.de/blog/2021/03/23/bartoc-vocabulary-browsing/ - introduction with links
+* https://github.com/gbv/cocoda-sdk/ - the library to wrap several APIs to one form (JSKOS)
+* https://github.com/gbv/coli-conc-examples/ - sample code to build an application with cocoda-sdk
+* [Addition of vocabularies to BARTOC](https://doi.org/10.5446/51813) - a behind the scences of BARTOC screencast
 
 ## Beyond passworts: a login-server for distributed identification
 
