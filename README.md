@@ -13,8 +13,15 @@ BARTOC becomes a hub of vocabulary services for unified browsing, searching, and
 
 ## Beyond passworts: a login-server for distributed identification
 
-*Accepted as Lightning Talk Wednesday March 24 at 3:06 PM ET = 20:06 CET*
+*Lightning Talk Wednesday March 24 at 3:06 PM ET = 20:06 CET*
 
 Jakob Voß et. al.
 
 Managing user accounts and credentials is tiresome for both users and providers of web applications. We will present a login-server that allows user to reuse accounts at common identity providers (GitHub, ORCID, Wikimedia...) or custom databases (e.g LDAP) to prove their identity via single-sign-on. The login-server is mainly based on passport.js and ready to be reused as Open Source. We will show why and how it is used in web applications at common library network (GBV).
+
+## Decomposition of DDC Synthesized Numbers
+
+*Lightning Talk Thursday March 25 at 1:35 PM ET = 18:35 CET*
+
+Jakob Voß et. al.
+
