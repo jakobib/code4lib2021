@@ -4,12 +4,16 @@
 
 ## Unification of vocabulary services in BARTOC
 
+*Accepted as poster <https://doi.org/10.5281/zenodo.4629367>*
+
 Jakob Voß et. al.
 
 The terminology registry BARTOC collects information about several thousand library classifications, thesauri, ontologies and other controlled vocabularies. In addition to improved visibility and findability via vocabulary description, BARTOC includes more and more means to also access vocabulary content. The poster will show how
 BARTOC becomes a hub of vocabulary services for unified browsing, searching, and reuse of concepts and their identifiers. The access is managed via mapping existing services and formats such as Skosmos, SKOS and custom terminology APIs to a common JSON based data format. All methods are available in a JavaScript library so access to controlled vocabularies can be added to other web applications without need to dive into multiple API specifications.
 
 ## Beyond passworts: a login-server for distributed identification
+
+*Accepted as Lightning Talk Wednesday March 24 at 3:06 PM ET = 20:06 CET*
 
 Jakob Voß et. al.
 
