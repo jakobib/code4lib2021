@@ -4,7 +4,7 @@
 
 ## Unification of vocabulary services in BARTOC
 
-*Accepted as poster <https://doi.org/10.5281/zenodo.4629367>*
+*Accepted as poster <https://osf.io/eby6d/> (=<https://doi.org/10.5281/zenodo.4629367>)*
 
 Jakob Voß et. al.
 
